@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Book {
+public class Book  {
     private final String titleOfTheBook;
     private final Author Author;
     private int yearOfPublication;

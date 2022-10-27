@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Author {
+public class Author  {
     private final String firstname;
     private final String lastname;
 
